@@ -21,5 +21,5 @@ public class honw {
 		@FindBy(xpath="//p[text()='Manage Contact']")WebElement managecontact;
 		@FindBy(xpath="//p[text()='Manage Footer Text']")WebElement foottexter;
 		@FindBy(xpath="//p[text()='Manage News']")WebElement managenews;
-		public  Category clickonmanagecategory()
+		public  Category clickonmanagecategory();
 }
